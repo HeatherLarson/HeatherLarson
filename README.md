@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HeatherLarson
-- 👀 I’m interested in ...running a node on the lightning network ⚡️
-- 🌱 I’m currently learning ...raspberry pi 
-- 💞️ I’m looking to collaborate on ...the lightning network ⚡️ plebnet 
+- 👀 I run a ⚡️lightning node
+- 🌱 I’m currently learning all things lightning ⚡️  
+- 💞️ I’m looking to collaborate on ⚡️  
 - 📫 How to reach me ...TheWriterHeatherLarson@protonmail.com @WriterHeatherL
 
 <!---
