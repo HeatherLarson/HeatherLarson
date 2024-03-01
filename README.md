@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @HeatherLarson
-- 👀 I run a ⚡️lightning node
+- ✍️ Not a dev, but writing for devs in B2B SaaS Social Media Marketing
+- - 💞️ I’m looking to collaborate on ⚡️ anything lightning, Bitcoin, and Nostr
+- 💜 Part of NostrPHX
+- 👀 I did run a ⚡️lightning node (and broke it!) 
 - 🌱 I’m currently learning all things lightning ⚡️  
-- 💞️ I’m looking to collaborate on ⚡️  
 - 📫 How to reach me ...TheWriterHeatherLarson@protonmail.com @WriterHeatherL
 
 <!---
