@@ -3,7 +3,7 @@
 - - 💞️ I’m looking to collaborate on ⚡️ anything lightning, Bitcoin, and Nostr
 - 💜 Part of NostrPHX
 - 👀 I did run a ⚡️lightning node (and broke it!) 
-- 🌱 I’m currently learning all things lightning ⚡️  
+- 🌱 I’m currently learning all things nostr ⚡️  
 - 📫 How to reach me ...TheWriterHeatherLarson@protonmail.com or npub1nl8r463jkdtr0qu0k3dht03jt9t59cttk0j8gtxg9wea2russlnq2zf9d0
 
 <!---
