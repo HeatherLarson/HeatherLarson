@@ -4,7 +4,7 @@
 - 💜 Part of NostrPHX
 - 👀 I did run a ⚡️lightning node (and broke it!) 
 - 🌱 I’m currently learning all things lightning ⚡️  
-- 📫 How to reach me ...TheWriterHeatherLarson@protonmail.com @WriterHeatherL
+- 📫 How to reach me ...TheWriterHeatherLarson@protonmail.com or npub1nl8r463jkdtr0qu0k3dht03jt9t59cttk0j8gtxg9wea2russlnq2zf9d0
 
 <!---
 HeatherLarson/HeatherLarson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
