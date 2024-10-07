@@ -3,7 +3,9 @@
 - - 💞️ I’m looking to collaborate on ⚡️ anything lightning, Bitcoin, and Nostr
 - 💜 Part of NostrPHX
 - 👀 I did run a ⚡️lightning node (and broke it!) 
-- 🌱 I’m currently learning all things nostr ⚡️  
+- 🌱 Head or the marketing team at Nostr Shenanigans ⚡️
+- Chief Detox Officer (CDO) at RadioDetox (podcasting 2.0)
+- Host of the 1st yoga class on Nostr #yogastr 
 - 📫 How to reach me ...TheWriterHeatherLarson@protonmail.com or npub1nl8r463jkdtr0qu0k3dht03jt9t59cttk0j8gtxg9wea2russlnq2zf9d0
 
 <!---
