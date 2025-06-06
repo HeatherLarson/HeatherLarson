@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @HeatherLarson
-- ✍️ Not a dev, but writing for devs in B2B SaaS Social Media Marketing
+- Tech marketing - Bitcoin & Nostr 
+- ✍️ Past life writing for devs in B2B SaaS Social Media Marketing (NOT a dev).
 - - 💞️ I’m looking to collaborate on ⚡️ anything lightning, Bitcoin, and Nostr
 - 💜 Part of NostrPHX
 - 👀 I did run a ⚡️lightning node (and broke it!) 
