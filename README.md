@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @HeatherLarson
-- Tech marketing - Bitcoin & Nostr 
+- 👋 Hi, I’m @HeatherLarson, Marketing Director at Soapbox
+- I will help you learn to vibe code using Shakespeare by Soapbox! 
+- Tech marketing - Bitcoin & Nostr since 2024.
 - ✍️ Past life writing for devs in B2B SaaS Social Media Marketing (NOT a dev).
 - - 💞️ I’m looking to collaborate on ⚡️ anything lightning, Bitcoin, and Nostr
 - 💜 Part of NostrPHX
 - 👀 I did run a ⚡️lightning node (and broke it!) 
-- 🌱 Head of the marketing team at Nostr Shenanigans ⚡️
+- 🌱 Head of the marketing team at Nostr Shenanigans est 2024 ⚡️ Nostrich.Social ⚡️
 - Chief Detox Officer (CDO) at RadioDetox (regularly breaking things in podcasting 2.0, like https://www.fountain.fm/show/FKbROZsP3lotx5mKlUbW)
 - Host of the 1st yoga class on Nostr #yogastr 
 - 📫 How to reach me ...TheWriterHeatherLarson@protonmail.com or npub1nl8r463jkdtr0qu0k3dht03jt9t59cttk0j8gtxg9wea2russlnq2zf9d0
