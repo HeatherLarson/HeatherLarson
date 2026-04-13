@@ -2,7 +2,7 @@
 - I will help you learn to vibe code using Shakespeare by Soapbox! 
 - Tech marketing - Bitcoin & Nostr since 2024.
 - ✍️ Past life writing for devs in B2B SaaS Social Media Marketing (NOT a dev).
-- - 💞️ I’m looking to collaborate on ⚡️ anything lightning, Bitcoin, and Nostr
+- 💞️ I’m looking to collaborate on ⚡️ anything lightning, Bitcoin, and Nostr
 - 💜 Part of NostrPHX
 - 👀 I did run a ⚡️lightning node (and broke it!) 
 - 🌱 Head of the marketing team at Nostr Shenanigans est 2024 ⚡️ Nostrich.Social ⚡️
